@@ -41,7 +41,7 @@ function Header() {
                 Get An Appointment <FontAwesomeIcon icon={faArrowRight} />
               </button>
             </Nav>
-          </Navbar.Collapse>
+          </Navbar.Collapse>  
         </Container>
       </Navbar>
     </>
